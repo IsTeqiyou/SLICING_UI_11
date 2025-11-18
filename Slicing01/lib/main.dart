@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_application_slicing/komponen/splashscreen.dart';
 import 'package:flutter_application_slicing/halaman/page_01.dart';
-import 'package:lottie/lottie.dart';
+// import 'package:lottie/lottie.dart';
 import 'package:flutter_application_slicing/komponen/splashscreen.dart';
 
 void main() {

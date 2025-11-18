@@ -28,7 +28,7 @@ class KaiCloneHalfPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      // --- HEADER/APPBAR AREA (Tetap utuh) ---
+  
       appBar: PreferredSize(
         preferredSize: Size.fromHeight(160.0),
         child: Container(
@@ -55,7 +55,7 @@ class KaiCloneHalfPage extends StatelessWidget {
                     decoration: BoxDecoration(
                       color: Colors.white,
                       borderRadius: BorderRadius.circular(12),
-                    ),
+                    ),9
                     child: Row(
                       children: [
                         _buildPlaceholderCircle(radius: 15, color: _placeholderColor),
