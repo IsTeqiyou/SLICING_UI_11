@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
 }
 
 
-
+P
 class MainPage extends StatefulWidget {
   const MainPage({super.key});
 
@@ -126,8 +126,8 @@ class HomePageCustom extends StatelessWidget {
       color: Colors.white,
       child: Column(
         children: [
-          Row(
-            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: <Widget>[
               Row(
                 children: const [
@@ -427,7 +427,7 @@ class VoucherCard extends StatelessWidget {
               label,
               style: const TextStyle(fontSize: 12, color: Colors.grey),
             ),
-          ],
+          ], 
         ),
       ],
     );
@@ -444,7 +444,7 @@ class DailyCheckInBanner extends StatelessWidget {
       decoration: BoxDecoration(
         color: Colors.red.shade400, 
         borderRadius: BorderRadius.circular(10),
-      ),
+      ),  
       child: Row(
         children: [
           Container(
