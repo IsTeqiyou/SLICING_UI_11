@@ -46,7 +46,7 @@
 //           padding: EdgeInsets.all(5),
 //           decoration: BoxDecoration(
 //             color: Colors.black.withAlpha(100),
-//             borderRadius: BorderRadius.circular(5),
+//             borderRadius: BorderRadius.circular(5), 
 //             border: Border.all(color: ClassName.color5, width: 0.8),
 //           ),
 //           child: Image.asset("assets/icons/favorite.png"),
